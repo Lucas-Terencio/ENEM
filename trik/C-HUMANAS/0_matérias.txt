@@ -1,0 +1,12 @@
+<{MATÉRIAS};
+    <{Questões Recorrentes}embed(<iframe width="560" height="315" src="https://www.youtube.com/embed/0huM9z2cOQI?si=Z2b1U6KroqczF7-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>);    
+    >;
+    <{Técnicas}embed(<iframe width="560" height="315" src="https://www.youtube.com/embed/XarNkuq_p0E?si=DRviqwOjkzzv_2K9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>);    
+    >;
+    <{Resolução}embed(<iframe width="560" height="315" src="https://www.youtube.com/embed/BpYzuaAn3r8?si=Adh0L3YEUDB1BCjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>);    
+    >;
+    <{Resumo}embed(<iframe width="560" height="315" src="https://www.youtube.com/embed/zlEfXiQFUlI?si=0oELz56FOdcaW2cb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>);    
+    >;
+    <{Repertório Linguistico}embed(<iframe width="560" height="315" src="https://www.youtube.com/embed/pmTPZcmlOGA?si=WoU37enpuZy7GB6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>);    
+    >;
+>;
