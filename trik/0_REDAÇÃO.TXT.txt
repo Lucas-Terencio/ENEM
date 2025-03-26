@@ -1,3 +1,10 @@
+<{Anotações};
+    (e){Repertórios}'Alusões Histórias, Citação a pensamentos de filosofos ou "pensadores" , dados com fonte e periodo...';
+    (e){Repertórios_}'usar, aplicar, retomar no detalhamento da conclusão';
+    (d){Elementos da conclusão}'Agente,Meio,Ação,Finalidade,Detalhamento';
+    (e){COESIVOS}'Primeiramenta, Primordialmente, Consoantemente, Ademais, Diante o exposto, Portanto, Considerando isso ...';
+    (){Duas Propostas}'se uma não der certo a outra dá';
+>;
 <{Possíveis Temas}embed(<iframe width="560" height="315" src="https://www.youtube.com/embed/Jppb3aBvqN8?si=OBK7jnmyVJHuuzF7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>);
 >;
 <{Competências}embed(<iframe width="560" height="315" src="https://www.youtube.com/embed/eQ861tSHGuw?si=rfkkoTPoDsLwIBsh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>);

@@ -12,11 +12,21 @@
     <{Mecânica}embed(<iframe width="560" height="315" src="https://www.youtube.com/embed/r_ZmEbu2u7E?si=hMAwoL7NgsrZPTz6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>); 
     >;
     <{Elétrica}embed(<iframe width="560" height="315" src="https://www.youtube.com/embed/HVKA6xLhBsY?si=IrZYl2fzY6zfpVW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>); 
+        <{Resistências}embed(<iframe width="560" height="315" src="https://www.youtube.com/embed/lCnhfgHLz7Y?si=pGdPuOpQjLnWTNk_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>); 
+        >;
+        <{Resistências e capacitores}embed(<iframe width="560" height="315" src="https://www.youtube.com/embed/e_hU6sAON2U?si=lnuUqcWHMk_PQiUd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>); 
+        >;
     >;
+    
     <{Termodinâmica}embed(<iframe width="560" height="315" src="https://www.youtube.com/embed/GYxXCr6HXcw?si=jE-U3bsL_x4kZN2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>); 
     >;
     <{Ondulatória}embed(<iframe width="560" height="315" src="https://www.youtube.com/embed/4w3PcXQ6Wd0?si=luoZv8YgkXytwG76" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>); 
     >;
     <{Revisão}embed(<iframe width="560" height="315" src="https://www.youtube.com/embed/L0tDWm8QfCU?si=pz9zLakFj1Tkgxv6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>); 
     >;
+    <{Resumo}embed(<iframe width="560" height="315" src="https://www.youtube.com/embed/hxciSW_B8Hw?si=5T2VIYJUjCLsboi9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>); 
+    >;
+    <{Fórmulas}embed(<iframe width="560" height="315" src="https://www.youtube.com/embed/qtsSSXAMJco?si=YR6OmV6TY3fCcP4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>); 
+    >;
+    
 >;

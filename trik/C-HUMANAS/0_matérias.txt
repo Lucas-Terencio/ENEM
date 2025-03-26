@@ -1,4 +1,18 @@
 <{MATÉRIAS};
+    <{Notas}'';
+        (e){questões fáceis}'peças publicitarias, saude, educação , campanhas, figuras e função de linguagens, tipos textuais, esporte';
+        (e){questões Dificeis}'"eu lirico", literatura, estratégia argumentativa, estrutura de texto,';
+        (e){caracteristica de genero textual}'ex: função emotiva: frases primeira pessoa';
+        (e){Campanha}'CONCIENTIZAR';
+        (e){Naturalismo}'é científico';
+        (e){Romantismo}'Rompimento com a tradição clássica. ...Maior liberdade formal. ...Amor platônico e idealização. ...Indianismo. ...Nacionalismo e ufanismo. ...Culto à natureza. ...Evasão e escapismo. ...Egocentrismo e subjetivismo. ';
+        (e){Modernismo}'nacionalismo, liberdade de forma e tema e crítica social. Foi contra o parnasianismo/poesias/ e a colocação de regras na arte. Criticou o eruditismo de escolas anteriores.';
+        (e){Palavra taxativa}'caracterização, adverbio, adjetivo que invalida sentença';
+        (e){efeito expressivo}'figura de linguagem';
+        (e){generalização E restriçoes}'buscar alternativas específicas ligadas a tematica do texto';
+        (e){Objetivos meio vs Objetivos Fim}'concentrar na finalidade dos textos';
+        (e){Visão ampliada}'o que provoca os problemas não é a atitude do individuo , mas sim, desigualdade social, falta de apoio estatal , infraestrutura ...';
+    >;
     <{Questões Recorrentes}embed(<iframe width="560" height="315" src="https://www.youtube.com/embed/0huM9z2cOQI?si=Z2b1U6KroqczF7-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>);    
     >;
     <{Técnicas}embed(<iframe width="560" height="315" src="https://www.youtube.com/embed/XarNkuq_p0E?si=DRviqwOjkzzv_2K9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>);    
